@@ -1,5 +1,4 @@
-﻿0716整理,#genre#
-免责声明,https://ghproxy.com/https://raw.githubusercontent.com/sun520999/m3u/master/Video/shengming.mp4
+﻿0805整理,#genre#
 
 央视高清,#genre#
 CCTV1 4M1080,http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225924/index.m3u8
