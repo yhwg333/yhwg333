@@ -2,7 +2,7 @@
 		"spider": "https://gitee.com/yhwg999/gitee/raw/master/jgyy.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lod2czMzMuZnJlZXR6aS5jb20vSkdZWS90dmJveHR2LnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly95aHdnMzMzLmdpdGh1Yi5pby95aHdnMzMzL3R2Ym94dHYudHh0"]}]}],
 	"sites": [{
 		"key": "KanSJ_spider",
 		"name": "🐞看视界",
