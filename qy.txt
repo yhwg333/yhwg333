@@ -721,11 +721,6 @@
       "url": "Sequence"
     },
 
-{
-      "name": "千寻",
-      "type": 1,
-      "url": "http://jx.junshengshicai.com/leying/?url="
-    },
 
     {
       "name": "293",
@@ -941,6 +936,12 @@
       "type": 0,
       "url": "https://jx.aidouer.net/?url="
     },
+    {
+      "name": "千寻",
+      "type": 0,
+      "url": "http://jx.junshengshicai.com/leying/?url="
+    },
+
     {
       "name": "虾米",
       "type": 0,
