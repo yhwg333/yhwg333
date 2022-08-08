@@ -947,7 +947,7 @@
       "url": "http://jx.junshengshicai.com/leying/analysis.php?v="
     },
  {
-      "name": "虾米",
+      "name": "BL",
       "type": 0,
       "url": "https://svip.bljiex.cc/?v="
     },
