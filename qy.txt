@@ -938,12 +938,12 @@
     },
 {
       "name": "千寻",
-      "type": 1,
+      "type": 0,
       "url": "http://jx.junshengshicai.com/leying/?url="
     },
 {
       "name": "千寻V",
-      "type": 1,
+      "type": 0,
       "url": "http://jx.junshengshicai.com/leying/analysis.php?v="
     },
  {
