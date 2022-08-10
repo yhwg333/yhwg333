@@ -1028,6 +1028,26 @@ MOMO综合,http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.
 MOMO综合,http://61.219.170.95:18576/.m3u8
 
 
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+华视新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=21
+中天新闻,http://61.219.170.95:18513/.m3u8
+卫视中文台,http://61.219.170.95:18522/hls/62/804/ch05.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+亚洲ATV,https://juyunlive.juyun.tv/live/24950198.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+东森电影台HD,http://171.110.62.170:8181/tsfile/live/1075_1.m3u8?blog.ntnas.top
+天眏经典CCM HD,http://171.110.62.170:8181/tsfile/live/1076_1.m3u8?blog.ntnas.top
+海外电影,http://171.110.62.170:8181/tsfile/live/1147_1.m3u8?blog.ntnas.top
+天眏经典,http://171.110.62.170:8181/tsfile/live/1000_1.m3u8?blog.ntnas.top
+龙祥时代HD,http://171.110.62.170:8181/tsfile/live/1077_1.m3u8
+
 
 影视轮播,#genre#
 
