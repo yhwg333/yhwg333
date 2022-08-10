@@ -952,6 +952,11 @@
       "url": "https://svip.bljiex.cc/?v="
     },
     {
+      "name": "365",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url="
+    },
+    {
       "name": "虾米",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
