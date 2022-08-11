@@ -957,6 +957,11 @@
       "url": "https://chaxun.truechat365.com/?url="
     },
     {
+      "name": "tvjx",
+      "type": 0,
+      "url": "http://120.233.84.226:5612/tvjx/?url="
+    },
+    {
       "name": "虾米",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
