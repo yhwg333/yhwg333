@@ -561,7 +561,13 @@
 		"filterable": 0,
 		"ext": "3a49cf29cf20410997247c6eb4509be9"
 	}],
-	"parses": [{
+	"parses": [
+	{
+		"name": "parwix稳定",
+		"type": 0,
+		"url": "https://jx.bozrc.com:4433/player/?url="
+	},
+	{
 		"name": "解析聚合",
 		"type": 3,
 		"url": "Demo"
@@ -574,11 +580,7 @@
 		"type": 2,
 		"url": "Sequence"
 	}, 
- {
-		"name": "parwix稳定",
-		"type": 0,
-		"url": "https://jx.bozrc.com:4433/player/?url="
-	},
+ 
  {
 		"name": "m3u8tv高清",
 		"type": 0,
