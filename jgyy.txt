@@ -583,32 +583,6 @@
 		"name": "m3u8tv高清",
 		"type": 0,
 		"url": "https://jx.m3u8.tv/jiexi/?url="
-	},
-
-
- {
-		"name": "OKjx综合",
-		"type": 0,
-		"url": "https://okjx.cc/?url="
-	},
-
-{
-		"name": "beiyan",
-		"type": 1,
-		"url": "https://jx.beiyan.cc:4433/?url="
-	},
-
-
-{
-		"name": "199",
-		"type": 1,
-		"url": "http://m.199cn.cn/live_qjx/jx.html?url=
-"
-	},
-{
-		"name": "云解析",
-		"type": 1,
-		"url": "https://jx.ergan.top/?url="
 	}],
 	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 	"ijk": [{
