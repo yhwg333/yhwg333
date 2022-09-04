@@ -146,15 +146,16 @@
     },
 
     {
-      "key": "七七",
-      "name": "🌙🎋七七〔SP〕",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://freetvbox.ml/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
-    },
+       "key":"csp_77",
+       "name":"👒酷云七七",
+       "type":3,
+       "api":"csp_Kunyu77",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+"jar":
+"http://ftp6282744.host107.abeiyun.cn/TVBox/top/77.jar"
+},
     {
       "key": "神马影院",
       "name": "📺神马影院〔SP〕",
