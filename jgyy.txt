@@ -43,13 +43,13 @@
 
 
 
-	{"key":"csp_77","name":"通道-2（SP速度快清晰度不高）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
+	{"key":"csp_77","name":"酷云77（SP速度快清晰度不高）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
 
 
 
 	{
 			"key": "csp_CZSPP",
-			"name": "通道-23（SP）",
+			"name": "厂长资源（SP）",
 			"type": 3,
 			"api": "csp_Czsapp",
 			"searchable": 1,
@@ -58,7 +58,7 @@
 		},
       {
 			"key": "小苹果",
-			"name": "通道-8（SP剧中有广告）",
+			"name": "小苹果（SP剧中有广告）",
 			"type": 3,
 			"api": "csp_LiteApple",
 			"searchable": 1,
@@ -77,7 +77,7 @@
 	    {"key":"csp_BBB","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/bili.json"},
 	    {
 			"key": "360_spider",
-			"name": "通道-1（SP官解）",
+			"name": "360（SP官解）",
 			"api": "csp_SP360",
 			"type": 3,
 			"filterable": 1,
@@ -87,7 +87,7 @@
 			
 		{
 			"key": "Ikan",
-			"name": "通道-3（SP）",
+			"name": "爱看（SP）",
 			"type": 3,
 			"api": "csp_IKan",
 			"searchable": 1,
@@ -96,7 +96,7 @@
 		}, 
 		{
 			"key": "Lezhu_spider",
-			"name": "通道-4（SP）",
+			"name": "乐猪（SP）",
 			"api": "csp_Lezhu",
 			"type": 3,
 			"filterable": 1,
@@ -106,7 +106,7 @@
 		},
 		{
 			"key": "神马影院",
-			"name": "通道-5（SP）",
+			"name": "神马影院（SP）",
 			"type": 3,
 			"api": "csp_Smdyy",
 			"searchable": 1,
@@ -115,7 +115,7 @@
 		},
 		{
 			"key": "csp_Bttoo",
-			"name": "通道-6（SP）",
+			"name": "Bttoo（SP）",
 			"type": 3,
 			"api": "csp_Bttoo",
 			"searchable": 1,
@@ -124,7 +124,7 @@
 		},
 		{
 			"key": "csp_Jianying",
-			"name": "通道-7（SP）",
+			"name": "简影（SP）",
 			"type": 3,
 			"api": "csp_JianYing",
 			"searchable": 1,
@@ -136,7 +136,7 @@
 
 		{
 			"key": "Kuaikan",
-			"name": "通道-9（SP）",
+			"name": "爱看（SP）",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
