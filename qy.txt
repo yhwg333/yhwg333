@@ -949,6 +949,8 @@
       "type": 0,
       "url": "http://jx.junshengshicai.com/leying/analysis.php?v="
     },
+     {"name": "ZNJSON","type": 1,"url": "https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="
+    }, 
  {
       "name": "BL",
       "type": 0,
