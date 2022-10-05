@@ -65,7 +65,8 @@
      "playerType":1,
      "searchable":1,
      "quickSearch":1,
-     "filterable":1},
+     "filterable":1,
+     "jar":"http://刚刚.live/jar2/gg0925.jar"},
     
     
   
