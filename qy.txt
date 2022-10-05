@@ -58,15 +58,17 @@
 "jar": "https://freetvbox.ml/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
     },
     
-     {"key": "csp_apptt_图图影视", 
-     "name": "图图影视", 
-     "type": 3, 
-     "api": "csp_AppTT", 
-     "searchable": 1, 
-     "quickSearch": 1, 
-     "filterable": 1, 
-     "ext": "http://154.221.16.45:7766/",
-     "jar":"http://api.tt58.tv/config/custom_spider.jar" },
+    {"key":"csp_AppTT",
+     "name":"图图影视",
+     "type":3,
+     "api":"csp_AppTT",
+     "playerType":1,
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1},
+    
+    
+  
     
     {
       "key": "293视频",
