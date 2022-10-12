@@ -14,6 +14,17 @@
   "spider": "https://freetvbox.ml/api/jar/TVBox.jar;md5;95f1754708eeaf127d93fea25dcd120a",
 
   "sites": [
+  
+      {"key":"csp_AppTT",
+     "name":"图图影视",
+     "type":3,
+     "api":"csp_AppTT",
+     "playerType":1,
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "jar":"http://刚刚.live/jar2/gg0925.jar"},
+  
     {
       "key": "csp_QQ",
       "name": "🐧腾讯〔SP〕",
@@ -58,15 +69,7 @@
 "jar": "https://freetvbox.ml/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
     },
     
-    {"key":"csp_AppTT",
-     "name":"图图影视",
-     "type":3,
-     "api":"csp_AppTT",
-     "playerType":1,
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "jar":"http://刚刚.live/jar2/gg0925.jar"},
+
     
     
   
