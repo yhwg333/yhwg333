@@ -1098,7 +1098,6 @@ EYE TV戏剧,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d3
 好消息电视台1,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
 大爱一,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-影院,#genre#
 HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403#http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 HBO HITS,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 HBO 温馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3#http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
