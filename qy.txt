@@ -782,7 +782,8 @@
       
       
       
-      
+         
+    {"name": "bozrc","type": 1,"url": "https://jx.bozrc.com/player/?url="}, 
       
       
     {"name": "绿叶解析","type": 1,"url": "https://hc.izny.cn/json.php?url="}, 
