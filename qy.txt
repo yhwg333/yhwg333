@@ -15,15 +15,7 @@
 
   "sites": [
   
-    // {"key":"csp_AppTT",
-     "name":"图图影视",
-     "type":3,
-     "api":"csp_AppTT",
-     "playerType":1,
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "jar":"http://刚刚.live/jar2/gg0925.jar"},
+   
   
     {
       "key": "csp_QQ",
