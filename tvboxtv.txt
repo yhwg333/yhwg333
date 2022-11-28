@@ -893,6 +893,28 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 澳门综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8 
+
+
+民视,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+中视新闻,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+环宇新闻,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+好莱坞电影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
+龙翔时代,http://120.84.96.74:808/hls/35/index.m3u8
+东森电影,http://120.84.96.74:808/hls/33/index.m3u8
+
+台湾inews,http://140.238.155.232:9000/jmsytb.m3u8?c=22
+三立LIVE,http://140.238.155.232:9000/jmsytb.m3u8?c=23
+中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24
+中视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=25
+台视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=26
+寰宇新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=27 TVBS56,http://140.238.155.232:9000/jmsytb.m3u8?c=29
+TVBS新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=31
+东森财经新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=35
+东森财经新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=36
+镜新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=38
+
+
+
 中视,rtmp://9wv7.mine.nu/sat/tv091
 
 中视,rtmp://59.124.75.147/sat/tv091
