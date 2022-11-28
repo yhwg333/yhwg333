@@ -899,8 +899,6 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 中视新闻,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
 环宇新闻,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 好莱坞电影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
-龙翔时代,http://120.84.96.74:808/hls/35/index.m3u8
-东森电影,http://120.84.96.74:808/hls/33/index.m3u8
 
 台湾inews,http://140.238.155.232:9000/jmsytb.m3u8?c=22
 三立LIVE,http://140.238.155.232:9000/jmsytb.m3u8?c=23
