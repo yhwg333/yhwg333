@@ -751,7 +751,7 @@
 
     {"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 
-    {"name":"懒懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
+    
 
     {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"4K解析","type":1,"url":"https://4k.clyjx.cn/api/?key=iNsAwSXwjaxSifnLWS&type=app&url="},
