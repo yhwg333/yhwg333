@@ -9,7 +9,7 @@
 { "url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&jar=XBiu&mz=XBiu&xl=4", "name": "🖤XBiu线路🖤", "time": "主线路" }, 
 { "url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&mz=a3&jar=a3", "name": "💖Bilibili和a3网盘线路💖", "time": "主线路" }, 
 { "url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&mz=zb", "name": "直播线路", "time": "主线路" }, 
-{ "url": "http://肥猫.love", "name": "肥猫" },
+{ "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "肥猫" },
  { "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" }, 
  { "url": "http://饭太硬.ga/x/o.json", "name": "饭太硬" }, 
  { "url": "https://hutool.ml/tang", "name": "唐三" }, 
