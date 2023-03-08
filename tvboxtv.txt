@@ -533,8 +533,61 @@ TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
 
 
 
-
-
+电影轮播,#genre#
+周星驰,http://live.aptvapp.com/live/huya/11342412
+林正英,http://live.aptvapp.com/live/huya/11342421
+吴孟达,http://live.aptvapp.com/live/huya/11336592
+周润发,http://live.aptvapp.com/live/huya/11342387
+成龙,http://live.aptvapp.com/live/huya/11342386
+王晶,http://live.aptvapp.com/live/huya/11602058
+沈腾,http://live.aptvapp.com/live/huya/11601968
+黄渤,http://live.aptvapp.com/live/huya/11352876
+强森,http://live.aptvapp.com/live/huya/21059581
+漫威,http://live.aptvapp.com/live/huya/11602034
+宇宙,http://live.aptvapp.com/live/huya/11602034
+怪兽,http://live.aptvapp.com/live/huya/21059577
+武侠,http://live.aptvapp.com/live/huya/21059577
+警匪,http://live.aptvapp.com/live/huya/11352886
+罪犯,http://live.aptvapp.com/live/huya/11352962
+枪战,http://live.aptvapp.com/live/huya/21059579
+海盗,http://live.aptvapp.com/live/huya/21059595
+赛车,http://live.aptvapp.com/live/huya/11279247
+救援,http://live.aptvapp.com/live/huya/21059594
+热血,http://live.aptvapp.com/live/huya/11352934
+盗墓,http://live.aptvapp.com/live/huya/21059552
+贺岁,http://live.aptvapp.com/live/huya/11601971
+玄幻,http://live.aptvapp.com/live/huya/11342414
+谍战,http://live.aptvapp.com/live/huya/21059585
+战争,http://live.aptvapp.com/live/huya/21059592
+喜剧,http://live.aptvapp.com/live/huya/11352877
+港片,http://live.aptvapp.com/live/huya/11602043
+国产,http://live.aptvapp.com/live/huya/11352973
+周星星,http://live.aptvapp.com/live/huya/11336587
+李连杰,http://live.aptvapp.com/live/huya/11342390
+洪金宝,http://live.aptvapp.com/live/huya/11279251
+梁家辉,http://live.aptvapp.com/live/huya/11342429
+许冠英,http://live.aptvapp.com/live/huya/11601972
+刘德华,http://live.aptvapp.com/live/huya/11342424
+斯坦森,http://live.aptvapp.com/live/huya/21059588
+小鬼头,http://live.aptvapp.com/live/huya/11352963
+八点档,http://live.aptvapp.com/live/huya/880261
+蜘蛛侠,http://live.aptvapp.com/live/huya/21059599
+贺 岁,http://live.aptvapp.com/live/huya/11601986
+功夫,http://live.aptvapp.com/live/huya/11352941
+黑帮,http://live.aptvapp.com/live/huya/11336719
+灾 难,http://live.aptvapp.com/live/huya/11602075
+谍 战,http://live.aptvapp.com/live/huya/21059587
+战 争,http://live.aptvapp.com/live/huya/21059574
+犯 罪,http://live.aptvapp.com/live/huya/11352974
+古 装,http://live.aptvapp.com/live/huya/11336590
+高分动作,http://live.aptvapp.com/live/huya/11352884
+动 作,http://live.aptvapp.com/live/huya/11602077
+搞笑喜剧,http://live.aptvapp.com/live/huya/11342423
+喜剧专场,http://live.aptvapp.com/live/huya/11342423
+黑 帮,http://live.aptvapp.com/live/huya/11342419
+古 墓,http://live.aptvapp.com/live/huya/11352913
+嫣 然,http://live.aptvapp.com/live/huya/11601977
+女 神,http://live.aptvapp.com/live/huya/11336571
 
 
 
