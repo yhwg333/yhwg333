@@ -3,7 +3,6 @@
 { "url": "https://gitee.com/yhwg999/gitee/raw/master/yx.m3u8", "name": "❤️進哥线路❤✨", "time": "主线路" }, 
 
 
-{ "url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&mz=zb", "name": "直播线路", "time": "主线路" }, 
 { "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "肥猫" },
  { "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" }, 
  { "url": "http://饭太硬.ga/x/o.json", "name": "饭太硬" }, 
