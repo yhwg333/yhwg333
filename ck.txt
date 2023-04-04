@@ -1,7 +1,7 @@
 { "urls": [ 
-{ "url": "https://gitee.com/yhwg999/gitee/raw/master/qy01.txt", "name": "💗✪ 以和为贵 ✪💗", "time": "主线路" }, 
+{ "url": "https://gitee.com/yhwg999/gitee/raw/master/qj.json", "name": "💗✪ 以和为贵 ✪💗", "time": "主线路" }, 
 { "url": "https://gitee.com/yhwg999/gitee/raw/master/yx.m3u8", "name": "❤️進哥线路❤✨", "time": "主线路" }, 
-
+{ "url": "https://gitee.com/yhwg999/gitee/raw/master/qy01.txt", "name": "💗進哥备用💗", "time": "主线路" },
 
 { "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "肥猫" },
  { "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" }, 
