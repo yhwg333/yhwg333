@@ -1,5 +1,6 @@
 { "storeHouse": [ { "sourceName": "🌹進哥主仓库🌹", "sourceUrl": "https://yhwg333.github.io/yhwg333/ck.txt" }, 
                  { "sourceName": "🌹云星仓库🌹", "sourceUrl": "https://itvbox.cc/可视TV/云星日记/仓库/api.json" },
                  { "sourceName": "✨星辰仓1✨", "sourceUrl": "http://8.210.220.114:8888/down/Gm9eek7XrVxz.json" },
-                 { "sourceName": "✨星辰仓2✨", "sourceUrl": "http://8.210.220.114:8888/down/feFCpDJohIYP.json" }
+                 { "sourceName": "✨星辰仓2✨", "sourceUrl": "http://8.210.220.114:8888/down/feFCpDJohIYP.json" },
+                 { "sourceName": "放学回家0看电视", "sourceUrl": "https://codeberg.org/jgfx/dc/raw/branch/main/dc01.json" }
                  ] }
