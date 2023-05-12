@@ -15,7 +15,7 @@
  { "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json", "name": "张*" }, 
  { "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0", "name": "哔哩哔哩" }, 
  { "url": "https://kebedd69.github.io/TVbox-interface/%E7%94%9C%E8%9C%9C.json", "name": "甜蜜" }, 
- { "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8", "name": "云星日记" }, 
+ { "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8", "name": "云星日记" }, 
  { "url": "http://miaotvs.cn/osc", "name": "太阳" }, 
  { "url": "https://raw.iqiq.io/liu673cn/box/main/m.json", "name": "老刘备" }, 
  { "url": "http://js.134584.xyz/json/pp87.json", "name": "白嫖" }, 
