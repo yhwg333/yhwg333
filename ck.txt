@@ -5,17 +5,22 @@
 { "url": "https://gitee.com/yhwg999/gitee/raw/master/red.txt", "name": "💗red红版💗", "time": "爱优腾" },
 { "url": "https://gitee.com/yhwg999/gitee/raw/master/blue.txt", "name": "💗blue蓝版💗", "time": "爱优腾" },
 { "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "肥猫" },
+{ "url": "https://weixine.net/ysc.json", "name": "运输车" }, 
+ { "url": "https://gitee.com/jgfx/TVBox/raw/master/master730json", "name": "非凡工具箱" }, 
+ { "url": "https://agit.ai/tsparkour/nmys/raw/branch/master/qt/xpg.json", "name": "小苹果" }, 
+ { "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json", "name": "胖鸭" },
  { "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" }, 
- { "url": "http://饭太硬.ga/tv", "name": "饭太硬" }, 
+ { "url": "http://饭太硬.top/tv", "name": "饭太硬" }, 
  { "url": "https://codeberg.org/jgfx/dym/raw/branch/master/master0511.json", "name": "放学回家看电视" }, 
- { "url": "http://home.jundie.top:81/top98.json", "name": "俊于" }, 
+ { "url": "http://101.34.67.237/config/1", "name": "小雅" }, 
  
- { "url": "https://xn--m7r412advb92j21st65a.tk/pz.json", "name": "神器" }, 
+ { "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json", "name": "蜂蜜" }, 
  
- { "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0", "name": "月光宝盒" }, 
+ { "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92", "name": "月光宝盒" }, 
  
  { "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0", "name": "哔哩哔哩" }, 
- { "url": "https://kebedd69.github.io/TVbox-interface/%E7%94%9C%E8%9C%9C.json", "name": "甜蜜" }, 
+{ "url": "https://yydsys.top/duo", "name": "应用多多" }, 
+ { "url": "https://yydsys.top/duo/ali", "name": "阿里精品" }, 
  { "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8", "name": "云星日记" },  
- { "url": "https://raw.iqiq.io/liu673cn/box/main/m.json", "name": "老刘备" } 
+ { "url": "http://miaotvs.cn/meow", "name": "喵影视" } 
       ] }
