@@ -6,7 +6,7 @@
 { "url": "https://gitee.com/yhwg999/gitee/raw/master/blue.txt", "name": "💗blue蓝版💗", "time": "爱优腾" },
 { "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "肥猫" },
 { "url": "https://weixine.net/ysc.json", "name": "运输车" }, 
- { "url": "https://gitee.com/jgfx/TVBox/raw/masMaster730json.json", "name": "非凡工具箱" }, 
+ { "url": "https://gitee.com/jgfx/TVBox/raw/master/master730.json", "name": "非凡工具箱" }, 
  { "url": "https://agit.ai/tsparkour/nmys/raw/branch/master/qt/xpg.json", "name": "小苹果" }, 
  { "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json", "name": "胖鸭" },
 
