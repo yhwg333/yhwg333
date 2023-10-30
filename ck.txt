@@ -1,9 +1,9 @@
 { "urls": [ 
 { "url": "https://gitee.com/yhwg999/gitee/raw/master/home.json", "name": "💗✪ 以和为贵 ✪💗", "time": "主线路" }, 
-{ "url": "https://gitee.com/yhwg999/gitee/raw/master/yx.m3u8", "name": "❤️進哥线路❤✨", "time": "主线路" }, 
-{ "url": "https://gitee.com/yhwg999/gitee/raw/master/qy01.txt", "name": "💗進哥备用💗", "time": "主线路" },
-{ "url": "https://gitee.com/yhwg999/gitee/raw/master/red.txt", "name": "💗red红版💗", "time": "爱优腾" },
-{ "url": "https://gitee.com/yhwg999/gitee/raw/master/blue.txt", "name": "💗blue蓝版💗", "time": "爱优腾" },
+{ "url": "https://gitee.com/yhwg999/gitee/raw/master/yx.m3u8", "name": "進哥线路", "time": "主线路" }, 
+{ "url": "https://gitee.com/yhwg999/gitee/raw/master/qy01.txt", "name": "進哥备用", "time": "主线路" },
+{ "url": "https://gitee.com/yhwg999/gitee/raw/master/red.txt", "name": "red红版", "time": "爱优腾" },
+{ "url": "https://gitee.com/yhwg999/gitee/raw/master/blue.txt", "name": "blue蓝版", "time": "爱优腾" },
 { "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "肥猫" },
 { "url": "https://weixine.net/ysc.json", "name": "运输车" }, 
 { "url": "https://www.bestpvp.site/关注码上放生/时光机", "name": "码上放生" }, 
