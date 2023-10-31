@@ -7,7 +7,7 @@
 { "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "肥猫" },
 { "url": "https://weixine.net/ysc.json", "name": "运输车" }, 
 { "url": "https://www.bestpvp.site/关注码上放生/时光机", "name": "码上放生" }, 
- { "url": "https://yydsys.top/duo", "name": "多多" }, 
+ { "url": "https://yydsys.top/duo", "name": "多多线路" }, 
  { "url": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/XYQTVBox/XYQTVBox.json", "name": "香雅晴" }, 
  { "url": "http://rihou.vip:88/荷城茶秀", "name": "荷城茶锈" },
 
