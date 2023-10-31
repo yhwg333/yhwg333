@@ -8,8 +8,8 @@
 { "url": "https://weixine.net/ysc.json", "name": "运输车" }, 
 { "url": "https://www.bestpvp.site/关注码上放生/时光机", "name": "码上放生" }, 
  { "url": "https://yydsys.top/duo", "name": "多多" }, 
- { "url": "http://pandown.pro/tvbox/tvbox.json", "name": "巧儿" }, 
- { "url": "https://pastebin.com/raw/5NHaxyGR", "name": "道长" },
+ { "url": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/XYQTVBox/XYQTVBox.json", "name": "香雅晴" }, 
+ { "url": "http://rihou.vip:88/荷城茶秀", "name": "荷城茶锈" },
 
  { "url": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/dan.json", "name": "星辰" }, 
 
@@ -18,8 +18,8 @@
  
  { "url": "https://tvbox.cainisi.cf", "name": "菜尼丝" }, 
  
- { "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json", "name": "FengMi" }, 
+ { "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json", "name": "霜辉月明" }, 
 
  { "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8", "name": "云星日记" },  
- { "url": "http://miaotvs.cn/meow", "name": "喵影视" } 
+ { "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2", "name": "欧歌线路" } 
       ] }
