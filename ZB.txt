@@ -480,7 +480,7 @@ CCTV17,http://api2.52tb.xyz/info?id=19&token=20230326xflvzc
 黑龙江卫视,http://api2.52tb.xyz/info?id=41&token=20230326xflvzc
 
 轮播虎牙,#genre#
-虎牙-周星星,http://43.138.170.29:35455/huya/24470631
+虎牙-周星星,https://www.goodiptv.club/huya/11342412
 虎牙-林正英,http://43.138.170.29:35455/huya/11342421
 虎牙-沈腾,http://43.138.170.29:35455/huya/11601968
 虎牙-猫和老鼠,http://43.138.170.29:35455/huya/11352879
