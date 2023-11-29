@@ -3,25 +3,22 @@
 
 
 
+ { "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2", "name": "欧歌线路" },
 
 
 { "url": "https://weixine.net/ysc.json", "name": "运输车" }, 
 
- { "url": "https://yydsys.top/duo", "name": "多多线路" }, 
-
+ 
  { "url": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/XYQTVBox/XYQTVBox.json", "name": "香雅晴" }, 
 
  { "url": "http://rihou.vip:88/荷城茶秀", "name": "荷城茶锈" },
 
- { "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8", "name": "云星日记" },  
 
- { "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2", "name": "欧歌线路" },
 
  
  { "url": "http://饭太硬.top/tv", "name": "饭太硬" }, 
  
  { "url": "https://tvbox.cainisi.cf", "name": "菜尼丝" }, 
-
 
  
  { "url": "http://tvkj.top/巧儿/api.json", "name": "巧儿" }, 
@@ -30,7 +27,10 @@
 
 { "url": "http://tvkj.top/tv4k/svip.json", "name": "天微科技" }, 
 
- { "url": "http://tvkj.top/DC/fmi/tvkj/svip.json", "name": "蜂蜜" }
+ { "url": "http://tvkj.top/DC/fmi/tvkj/svip.json", "name": "蜂蜜" },
+
+{ "url": "https://yydsys.top/duo", "name": "多多线路" }, 
+ { "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8", "name": "云星日记" }
 
 
       ] }
