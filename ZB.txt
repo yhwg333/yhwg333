@@ -283,6 +283,24 @@ NewTV中国功夫,http://39.135.49.136:6610/PLTV/88888888/224/3221225896/1.m3u8?
 
 
 
+宝岛TW,#genre#
+民视,https://i.125011.xyz/sat.php?ip=&id=tv051 
+台视,https://i.125011.xyz/sat.php?ip=&id=tv071
+中视,https://i.125011.xyz/sat.php?ip=&id=tv091
+华视,https://i.125011.xyz/sat.php?ip=&id=tv111
+TVBS新聞台,https://i.125011.xyz/sat.php?ip=&id=tv551
+TVBS欢乐台,https://i.125011.xyz/sat.php?ip=&id=tv421
+东森财经新闻台,https://i.125011.xyz/sat.php?ip=&id=tv571
+纬来育乐,https://i.125011.xyz/sat.php?ip=&id=tv701
+纬来体育,https://i.125011.xyz/sat.php?ip=&id=tv721
+MOMO综合台,https://i.125011.xyz/sat.php?ip=&id=tv761
+纬来日本,https://i.125011.xyz/sat.php?ip=&id=tv771
+
+
+
+
+
+
 
 
 
