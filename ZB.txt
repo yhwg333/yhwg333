@@ -390,7 +390,9 @@ Viu6,http://gwtv.cnv8.tv:8097/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&
 astro欢喜台,http://gwtv.cnv8.tv:8097/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 iNews TV,http://gwtv.cnv8.tv:8097/Inewstv/playlist.m3u8?tid=ME1E8983653189836531&ct=19249&tsum=94c9e0a29f266dea3d3ed307954ed91a
 iNews 新闻台,http://gwtv.cnv8.tv:8097/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-GETV1_9600,#genre#
+
+
+
 三立台湾,http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立戏剧,http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 三立戏剧,http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
