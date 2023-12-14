@@ -1,7 +1,7 @@
 { "urls": [ 
 { "url": "https://gitee.com/yhwg999/gitee/raw/master/home.json", "name": "💗✪ 以和为贵 ✪💗", "time": "主线路" }, 
 
-
+{ "url": "http://肥猫.live", "name": "肥猫" },
 
  { "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2", "name": "欧歌线路" },
 
@@ -23,7 +23,7 @@
  
  { "url": "http://tvkj.top/巧儿/api.json", "name": "巧儿" }, 
 
-{ "url": "http://tvkj.top/DC/fm/tvkj/svip.json", "name": "肥猫" },
+
 
 { "url": "http://tvkj.top/tv4k/svip.json", "name": "天微科技" }, 
 
