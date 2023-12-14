@@ -284,6 +284,13 @@ NewTV中国功夫,http://39.135.49.136:6610/PLTV/88888888/224/3221225896/1.m3u8?
 
 
 宝岛TW,#genre#
+民视,mitv://generationnexxxt.com:19806/1565e0139122423c9d7ad6258013b974
+台视,mitv://generationnexxxt.com:19806/237b50473a8746939025b2fa1f038328
+大爱,mitv://generationnexxxt.com:19806/bb7dd0c2728d4af398caf5b558541303
+中视,mitv://generationnexxxt.com:19806/74fe8677201743a2885019d60bfdd7b0
+霹雳台湾台,mitv://generationnexxxt.com:19806/c7fde2393a1d4cd98720f70dbd5097db
+华视,mitv://generationnexxxt.com:19806/0c5106f0b94b435b93a153ad5a50f98a
+公视,mitv://generationnexxxt.com:19806/2d86281cddb149ca97b9b35472e1b3a3
 东森新闻,http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 东森戏剧,http://gwtv.cnv8.tv:8097/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 三立综合,http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
