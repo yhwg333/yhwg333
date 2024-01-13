@@ -288,11 +288,6 @@ NewTV中国功夫,http://39.135.49.136:6610/PLTV/88888888/224/3221225896/1.m3u8?
 
 
 
-民视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1050
-台视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1047
-中视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1048
-华视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1049
-公视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1201
 
 中视,rtmp://9sv2.mine.nu/sat/tv091
 台视,rtmp://9sv2.mine.nu/sat/tv071
