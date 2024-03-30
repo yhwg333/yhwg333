@@ -607,6 +607,7 @@ GT测试,#genre#
 民视台湾台,P2p://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
 台视综合台,P2p://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
 台视财经台,P2p://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
+霹雳台湾台,P2p://generationnexxxt.com:19806/dcdf778fe9ca4184ad6af3a911765cf0
 东森综合台,P2p://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
 东森幼幼台,P2p://generationnexxxt.com:19806/baa16215e2224e399f6dc71eb3576ed4
 东森电影台,P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
