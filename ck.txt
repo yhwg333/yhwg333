@@ -15,7 +15,6 @@
 { "url": "http://tvbox.王二小放牛娃.xyz", "name": "王二小" },
 { "url": "https://json.qlkjy.cn/ql.json", "name": "奇乐" },
 { "url": "http://router.bopop.buzz:9999/mdxgh.json", "name": "码点" },
-{ "url": "https://tv.youdu.fan:666/cy/", "name": "春盈" },
 
 
 
