@@ -10,9 +10,12 @@
 { "url": "http://www.wya6.cn/tv/wd.json", "name": "无意云" }, 
 { "url": "http://ftp6295638.host108.abeiyun.cn/tvbox/tvbox.json", "name": "abc" }, 
  
- { "url": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/XYQTVBox/XYQTVBox.json", "name": "香雅晴" }, 
-
- { "url": "http://rihou.vip:88/荷城茶秀", "name": "荷城茶锈" },
+{ "url": "http://我不是.摸鱼儿.top", "name": "摸鱼" },
+{ "url": "https://m.n13.club", "name": "T4接口" },
+{ "url": "http://tvbox.王二小放牛娃.xyz", "name": "王二小" },
+{ "url": "https://json.qlkjy.cn/ql.json", "name": "奇乐" },
+{ "url": "http://router.bopop.buzz:9999/mdxgh.json", "name": "码点" },
+{ "url": "https://tv.youdu.fan:666/cy/", "name": "春盈" },
 
 
 
