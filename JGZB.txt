@@ -412,7 +412,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 
-🫓天津联通专线,#genre#
+天津联通,#genre#
 导视频道,http://nas.hssvm.com:8888/udp/225.1.1.77:5002
 天津卫视HD,http://nas.hssvm.com:8888/udp/225.1.1.111:5002
 天津新闻HD,http://nas.hssvm.com:8888/udp/225.1.1.130:5002
@@ -544,7 +544,7 @@ CCTV卫生与健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
 中华美食,http://nas.hssvm.com:8888/udp/225.1.1.218:5002
 先锋乒羽,http://nas.hssvm.com:8888/udp/225.1.1.219:5002
 
-🫕重庆联通专线,#genre#
+重庆联通,#genre#
 CCTV1,http://n1.dddmmh.space:8088/udp/225.0.4.197:7980
 CCTV1,http://n1.dddmmh.space:8088/udp/225.0.4.74:7980
 CCTV2,http://n1.dddmmh.space:8088/udp/225.0.4.132:7980
