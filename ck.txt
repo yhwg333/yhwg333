@@ -14,7 +14,7 @@
 { "url": "https://m.n13.club", "name": "T4接口" },
 
 { "url": "https://json.qlkjy.cn/ql.json", "name": "奇乐" },
-
+{ "url": "https://gitee.com/yhwg999/gitee/raw/master/ygbh0606.txt", "name": "宝盒" },
 
 
 
