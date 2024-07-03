@@ -7,7 +7,7 @@
 
 
 { "url": "http://meowtv.cn/tv", "name": "喵影视" }, 
-{ "url": "http://www.wya6.cn/tv/wd.json", "name": "无意云" }, 
+{ "url": "http://www.wya6.cn/tv/yx.php", "name": "无意云" }, 
 { "url": "http://ftp6295638.host108.abeiyun.cn/tvbox/tvbox.json", "name": "abc" }, 
  
 { "url": "http://我不是.摸鱼儿.top", "name": "摸鱼" },
