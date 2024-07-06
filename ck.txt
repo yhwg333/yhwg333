@@ -21,6 +21,7 @@
  
  { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" }, 
  { "url": "http://nxog.eu.org/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌", "name": "欧歌线路" },
+{ "url": "https://gitee.com/tvkj/tw/raw/main/svip.json", "name": "天微" },
 { "url": "http://router.bopop.buzz:9999/mdxgh.json", "name": "码点" },
  { "url": "http://1.itvbox.cc/云星日记", "name": "云星日记" }
 
