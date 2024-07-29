@@ -827,7 +827,18 @@ iFun动漫台,P2p://generationnexxxt.com:19806/6cb1867e9aa543d7938ecb9ac3605564
 历史频道台,P2p://generationnexxxt.com:19806/cf774dbea20b492db00ab609f1c43d47
 爱尔达二台,P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
 爱尔达三台,P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
-
+中天新闻台,P2p://147.135.39.171:9906/668829a300087a07bea90b34300003a6#P2p://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9
+东森新闻台,P2p://generationnexxxt.com:19806/e9f96143b31a4e869309a60c27c66bc4#P2p://generationnexxxt.com:19806/311e31668d704df7ade8a4d5e745d49b
+TVBS新闻台,P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1#P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
+三立新闻台,P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d#P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
+年代新闻台,P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc#P2p://generationnexxxt.com:19806/f8c807d770a8429da9d058b516902907
+非凡新闻台,P2p://generationnexxxt.com:19806/3d7f2e1d0e04407ba29c656092041b09#P2p://generationnexxxt.com:19806/a404066e65af4566931c773a385ed1e3
+民视新闻台,P2p://generationnexxxt.com:19806/96f9b2974a86449f9a6f881b4e23ca03
+中视新闻台,P2p://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa
+寰宇新闻台,P2p://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a
+华视新闻台,P2p://generationnexxxt.com:19806/ad4759ce4ff244efaa766154165e5d39
+TVBSHD台,P2p://generationnexxxt.com:19806/5fe15c41a5ed4d5f9262ee28464c45c0#P2p://generationnexxxt.com:19806/9e185dd6c7dd46edb5a7d675e4fca701
+BBC-HD台,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
 
 
 GT秒开,#genre#
