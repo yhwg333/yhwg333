@@ -2,7 +2,7 @@
 { "url": "https://gitee.com/yhwg999/gitee/raw/master/home.json", "name": "💗✪ 以和为贵 ✪💗", "time": "主线路" }, 
 
 { "url": "http://肥猫.com", "name": "肥猫" },
-{ "url": "http://tvbox.xn-4kq62z5rby2qupq9ub.xyz", "name": "王二小" },
+{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "王二小" },
 
 
 
