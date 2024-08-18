@@ -13,7 +13,7 @@
 { "url": "https://我不是.摸鱼儿.top", "name": "摸鱼" },
 { "url": "https://m.n13.club", "name": "T4接口" },
 
-{ "url": "https://json.qlkjy.cn/qb.json", "name": "奇乐" },
+{ "url": "https://xn--fjq10yonhfky.xyz/qd.json", "name": "奇乐" },
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json", "name": "宝盒" },
 { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json", "name": "爱TV吧" },
 
