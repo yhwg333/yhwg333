@@ -641,6 +641,8 @@ GT秒开,#genre#
 台視,rtmp://f13h.mine.nu/sat/tv071 
 中視,rtmp://f13h.mine.nu/sat/tv091 
 华視,rtmp://f13h.mine.nu/sat/tv111 
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
