@@ -17,7 +17,7 @@
 厦门卫视,http://39.135.49.136:6610/PLTV/88888888/224/3221226781/1.m3u8?servicetype=1
 厦门卫视,http://39.135.49.136:6610/PLTV/88888888/224/3221226964/1.m3u8?servicetype=1
 厦门卫视,http://39.135.32.10:6610/000000001000/SD-4000k-576P-xiamenstv/1.m3u8?IASHttpSessionId=OTT?zweimd
-
+厦门卫视,http://39.134.100.75/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/3.m3u8
 
 
 CCTV1,http://39.135.49.136:6610/PLTV/88888888/224/3221227014/1.m3u8?servicetype=1
