@@ -841,7 +841,7 @@ TVBSHD台,P2p://generationnexxxt.com:19806/5fe15c41a5ed4d5f9262ee28464c45c0#P2p:
 BBC-HD台,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
 
 
-GT秒开,#genre#
+TW测试,#genre#
 民視,rtmp://f13h.mine.nu/sat/tv051 
 台視,rtmp://f13h.mine.nu/sat/tv071 
 中視,rtmp://f13h.mine.nu/sat/tv091 
@@ -858,7 +858,12 @@ amc电影台，http://61.221.215.25:8800/hls/43/index.m3u8
 纬来精彩，http://61.221.215.25:8800/hls/48/index.m3u8
 动物星球，http://61.221.215.25:8800/hls/57/index.m3u8
 
-
+民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
+民视,http://37.27.111.214:8080/live/6/hls.m3u8
+中视,http://37.27.111.214:8080/live/7/hls.m3u8
+华视,http://37.27.111.214:8080/live/8/hls.m3u8
+猪哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
+东森新闻,http://211.72.65.236:8541/.m3u8
 
 
 IPv6,#genre#
