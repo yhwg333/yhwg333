@@ -883,8 +883,10 @@ TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 TVBS欢乐台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
 中天娱乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8527/.m3u8
 东森戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8
-
-
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
+TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
+三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
 
 IPv6,#genre#
 CCTV-01 综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
