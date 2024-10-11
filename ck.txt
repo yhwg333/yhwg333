@@ -10,7 +10,7 @@
 { "url": "http://www.wya6.cn/tv/yx.php", "name": "无意云" }, 
 { "url": "http://ftp6295638.host108.abeiyun.cn/tvbox/tvbox.json", "name": "abc" }, 
  
-{ "url": "https://我不是.摸鱼儿.top", "name": "摸鱼" },
+{ "url": "https://我不是.摸鱼儿.com", "name": "摸鱼" },
 { "url": "https://m.n13.club", "name": "T4接口" },
 
 { "url": "https://xn--fjq10yonhfky.xyz/qd.json", "name": "奇乐" },
