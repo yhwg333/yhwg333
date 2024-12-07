@@ -3,7 +3,7 @@
 
 { "url": "http://肥猫.com", "name": "肥猫" },
 { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "王二小" },
-
+{ "url": "http://b.mtw.so/5VundT", "name": "疾风" },
 
 
 { "url": "http://meowtv.cn/tv", "name": "喵影视" }, 
