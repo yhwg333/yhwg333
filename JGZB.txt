@@ -1324,6 +1324,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 轮播虎牙,#genre#
 周星驰,http://kxrj.site:8690/php/hy.php?id=11342412
+林正英,http://kxrj.site:8690/php/hy.php?id=11342421
 李连杰,http://kxrj.site:8690/php/hy.php?id=11342390
 甄子丹,http://kxrj.site:8690/php/hy.php?id=11352935
 刘德华,http://kxrj.site:8690/php/hy.php?id=11342424
