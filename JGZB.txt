@@ -5,12 +5,16 @@
 厦门移动,#genre#
 厦门一台,http://39.135.49.136:6610/PLTV/88888888/224/3221226814/1.m3u8?servicetype=1
 厦门一台,http://39.135.49.136:6610/PLTV/88888888/224/3221227185/1.m3u8?servicetype=1
+厦门一台,https://live1b.kxm.xmtv.cn/xm1bf/playlist.m3u8
+厦门一台,https://live1b.kxm.xmtv.cn/xm1bf/tvzb/live.m3u8
 厦门一台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/3.m3u8
 厦门一台,http://112.50.243.8/PLTV/88888888/224/3221226814/3.m3u8
 厦门二台,http://39.135.49.136:6610/PLTV/88888888/224/3221226777/1.m3u8?servicetype=1
-厦门三台,http://39.135.49.136:6610/PLTV/88888888/224/3221226760/1.m3u8?servicetype=1
+厦门二台,https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8
+厦门二台,https://live1b.kxm.xmtv.cn/xm2bf/tvzb/live.m3u8
 厦门二台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/3.m3u8
 厦门二台,http://112.50.243.8/PLTV/88888888/224/3221226777/3.m3u8
+厦门三台,http://39.135.49.136:6610/PLTV/88888888/224/3221226760/1.m3u8?servicetype=1
 厦门三台,http://39.135.55.105:6610/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
 厦门三台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/3.m3u8
 厦门三台,http://112.50.243.8/PLTV/88888888/224/3221226760/3.m3u8
