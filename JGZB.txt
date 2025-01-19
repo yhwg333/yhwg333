@@ -1424,10 +1424,16 @@ PPTV9,http://39.134.136.161:6610/000000001000/3000000001000005308/index.m3u8?liv
 
 虎牙轮播👉全网,#genre#
 周星驰,http://rihou.cc:555/huyad.php?id=11342412
+林正英,http://rihou.cc:555/huyad.php?id=11342421
 李连杰,http://rihou.cc:555/huyad.php?id=11342390
 甄子丹,http://rihou.cc:555/huyad.php?id=11352935
-刘德华,http://rihou.cc:555/huyad.php?id=11342424
+刘德华,http://rihou.cc:555/huyad.php?id=11342424 
 邱淑贞,http://rihou.cc:555/huyad.php?id=11352949
+成龙,http://rihou.cc:555/huyad.php?id=11342386 
+王晶,http://rihou.cc:555/huyad.php?id=11602058 
+沈腾,http://rihou.cc:555/huyad.php?id=11601968 
+黄渤,http://rihou.cc:555/huyad.php?id=11352876 
+吴京,http://rihou.cc:555/huyad.php?id=11602041 
 女神系列,http://rihou.cc:555/huyad.php?id=11336571
 赌片,http://rihou.cc:555/huyad.php?id=11342399
 bang派,http://rihou.cc:555/huyad.php?id=11336719
