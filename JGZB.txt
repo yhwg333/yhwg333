@@ -532,7 +532,41 @@ CCTV15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 
 
 
-
+TW斯特,#genre#
+中天新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
+东森新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvnews
+Tvbs新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n
+寰宇新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
+非凡新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
+民视新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan
+公视闽南斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ctv_taiwan
+民视闽南斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvhd_taiwan
+台视闽南斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ttv_taiwan
+台视综合斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ttvzhonghe
+八大第一斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=badafirst
+八大综合斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=badazhonghe
+八大戏剧斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=badadrama
+中天综合斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ctizhonghe
+中天娱乐斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ctient
+东森综合斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
+东森戏剧斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvdrama
+东森电影斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
+东森洋片斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvwestern
+东森财经斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvcaijing_twn
+龙祥电影斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=lungxiangtime_twn
+龙华戏剧斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaxiju_twn
+龙华电影斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=xingwei_movie
+龙华偶像斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaidol_twn
+龙华洋片斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuawestern_twn
+纬来电影斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
+纬来日本斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandjapan
+三立闽南斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
+三立戏剧斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlixiju_twn
+三立综合斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlizhonghe
+EYE-戏剧斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvxiju_twn
+ELTa影剧斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=eltayingju_twn
+Tvbs欢乐斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbshuanle_twn
+寰宇财经斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyutaiwan_twn
 
 
 
