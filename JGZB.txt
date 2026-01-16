@@ -733,6 +733,41 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
+风云提取,#genre#
+CCTV 1,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV 2,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV 3,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV 4,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV 13,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV 14,http://iptv.4666888.xyz/iptv2A.php?id=12
+湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
+浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
+江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
+山西卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
+青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
+广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
+千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
+RHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+MY TV,http://iptv.4666888.xyz/iptv2A.php?id=24
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+翡翠综合,http://iptv.4666888.xyz/iptv2A.php?id=26
+凤凰卫视,http://iptv.4666888.xyz/iptv2A.php?id=27
+翡翠戏剧,http://iptv.4666888.xyz/iptv2A.php?id=28
+美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
+翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
+靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+ELTA综合,http://iptv.4666888.xyz/iptv2A.php?id=49
+ROCK Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
+民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 
 
 
