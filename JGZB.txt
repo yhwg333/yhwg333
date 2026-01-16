@@ -769,5 +769,14 @@ ROCK Action,http://iptv.4666888.xyz/iptv2A.php?id=50
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 
+民視,http://iptv.fr.to/test/Fmtv.php?id=FTVHD
+
+华視,http://iptv.fr.to/test/Fmtv.php?id=CTSHD
+三立台湾,http://iptv.fr.to/test/Fmtv.php?id=sltw
+中天新闻,http://iptv.fr.to/test/Fmtv.php?id=ztxw
+中天综合,http://iptv.fr.to/test/Fmtv.php?id=ztzh
+中天娱乐,http://iptv.fr.to/test/Fmtv.php?id=ztyl
+
+八大戏剧,http://iptv.fr.to/test/Fmtv.php?id=bdxj
 
 
